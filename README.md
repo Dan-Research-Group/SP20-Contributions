@@ -1,2 +1,33 @@
-# FA20-Contributions
-CS199-Fall 2020 member contributions
+# SP20-Contributions
+
+CS199-Spring 2020 member contributions
+
+## Table of Contents
+
+- [SP20-Contributions](#sp20-contributions)
+  - [Table of Contents](#table-of-contents)
+  - [Members](#members)
+  - [Template](#template)
+
+## Members
+
+All members and link to their respective file
+
+- [Max Yao](docs/max_yao.md)
+
+## Template
+
+This template is only a suggestion, you don't strictly have to follow it. But please do provide your name and SID so it's easier to search you up
+
+```markdown
+# <Your Name> Spring 2020 Contribution
+
+## Name
+
+## Student ID
+
+## Things I worked on
+
+## Progress so far
+
+```
