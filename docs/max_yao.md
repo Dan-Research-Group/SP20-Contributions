@@ -1,7 +1,11 @@
 # Max Yao Spring 2020 Contribution
 
-## Name
-
 ## Student ID
 
-## Things I worked on
+## Things I finished working on
+
+## Things I am still working on
+
+## In the future, I plan to work on
+
+## Links to code, doc, repo etc
