@@ -68,13 +68,7 @@ Multiple Choice.
 The input of the four texts are stored in strings. The sequence in which they appear and their corresponding solutions is randomized. 
 ### Demonstration:
 ![alt_text](https://github.com/Liaoqitian/Exam-Generation-/blob/master/Programming%20Paradigm/Solution%20Demo.png "Question Demo")
-
-
-Sign and Magnitude (Summer 2019, Question 5)  
-Number Division (Fall 2019, Question 6)  
-Number Multiplication (Spring 2019, Question 6)  
-Speed Up (Summer 2019, Question 5)  
-Number Division (Fall 2019, Question 6)   
+ 
 ## Doing:
 Mainly two things. First, I am implementing the hint algorithm on Prairielearn which should direct students towards the correct solution. Second, I am also implementing more questions from past midterms. 
 ## Will Do: 
