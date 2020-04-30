@@ -4,7 +4,7 @@
 I finished implementing and integrating the following five questions from past CS10 Midterms to PrairieLearn. 
 More detailed information, specific description about the implementation and a brief demo of each question can be found in the readme file on my Github (Link provided below).  
 
-Sign and Magnitude](#Sign-and-Magnitude-Summer-2019-Question-5)  
+[Sign and Magnitude](#Sign-and-Magnitude-Summer-2019-Question-5)  
 [Number Division](#Number-Division-Fall-2019-Question-6)  
 [Number Multiplication](#Number-Multiplication-Spring-2019-Question-6)  
 [Speed Up](#Speed-Up-Spring-2019-Question-5)  
