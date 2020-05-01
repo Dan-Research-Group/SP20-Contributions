@@ -1,0 +1,24 @@
+Name: Irene Ortega
+
+SID: 3032744587
+
+Done:
+    I implemented the buggy question (Midterm Fall 2019) with images, and demo (JSON version)
+    Snap!Con proposal ideas https://docs.google.com/document/d/1QLk7tFv7UoYyCOEXreMYdDKB8jDNVlHICnxgqvqM5Wc/edit?usp=sharing
+    Applied and received a $500 grant for our project through UC LEADS 
+    Took notes on meetings until Dan took over
+    
+
+Doing:
+    Helping set up a hierarchical structure to reduce repeated code
+    Updating our Snap! Image generator to have a faster runtime. Our current one takes long because it drags blocks to create an image.
+    Translating Json to PrairieLearn output, making sure code does not break abstraction barriers for our hierarchical structure
+    
+
+Will do:
+This Summer I plan on spending about 30 hrs/ week creating more question generators for different question types in CS10. 
+I also hope to have a solid concept map that we can all access and edit. 
+I will also dedicate my time to polishing our proposal, getting our poster ready, and preparing a demo for Snap!Con. 
+
+My code:
+https://github.com/ireneog/auto-quiz/tree/master/midterm1-bugg
