@@ -15,6 +15,8 @@ All members and link to their respective file
 
 - [Max Yao](docs/max_yao.md)
 - [Qitian Liao](docs/Qitian_Liao.md)
+- [Jonas Ong](docs/JonasOngSP20_contribution)
+
 ## Template
 
 This template is only a suggestion, you don't strictly have to follow it. But please do provide your name and SID so it's easier to search you up
